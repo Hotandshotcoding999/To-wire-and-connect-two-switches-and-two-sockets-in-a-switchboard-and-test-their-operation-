@@ -1,0 +1,1 @@
+# To-wire-and-connect-two-switches-and-two-sockets-in-a-switchboard-and-test-their-operation-
